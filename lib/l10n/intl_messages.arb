@@ -1,0 +1,610 @@
+{
+  "@@last_modified": "2020-12-16T15:39:05.074096",
+  "infoSlide1": "Signalez les dysfonctionnements avec SyperCitoyen !",
+  "@infoSlide1": {
+    "description": "infoSlide1",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sousTitreInfoSlide1": "Localisez, Catégorisez, prenez en photo et suivez vos signalements ",
+  "@sousTitreInfoSlide1": {
+    "description": "sousTitreInfoSlide1",
+    "type": "text",
+    "placeholders": {}
+  },
+  "infoSlide2": "Gestion des signalements au niveau des mairies",
+  "@infoSlide2": {
+    "description": "infoSlide2",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sousTitreInfoSlide2": "Un service adapté à tous !",
+  "@sousTitreInfoSlide2": {
+    "description": "sousTitreInfoSlide2",
+    "type": "text",
+    "placeholders": {}
+  },
+  "infoSlide3": "Suivi des interventions techniques",
+  "@infoSlide3": {
+    "description": "infoSlide3",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sousTitreInfoSlide3": "Un suivi du dépôt du signalement jusqu'à son traitement",
+  "@sousTitreInfoSlide3": {
+    "description": "sousTitreInfoSlide3",
+    "type": "text",
+    "placeholders": {}
+  },
+  "creerCompteOuSeConnecter": "Créez un compte, ou connectez-vous!",
+  "@creerCompteOuSeConnecter": {
+    "description": "creerCompteOuSeConnecter",
+    "type": "text",
+    "placeholders": {}
+  },
+  "suivant": "Suivant",
+  "@suivant": {
+    "description": "suivant",
+    "type": "text",
+    "placeholders": {}
+  },
+  "seConnecter": "Se Connecter",
+  "@seConnecter": {
+    "description": "word form signing up",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sInscrire": "S'inscrire",
+  "@sInscrire": {
+    "description": "s'inscrire dans superCitoyen",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextNumTelephone": "Numéro de téléphone",
+  "@hintTextNumTelephone": {
+    "description": "hint Text Numéro de Telephone",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextMotDePasse": "Mot de passe",
+  "@hintTextMotDePasse": {
+    "description": "hint Text Mot De Passe",
+    "type": "text",
+    "placeholders": {}
+  },
+  "motDePasseOublie": "Mot de passe oublié",
+  "@motDePasseOublie": {
+    "description": "boutton Mot de passe oublié",
+    "type": "text",
+    "placeholders": {}
+  },
+  "creerUnCompte": "Créer un compte",
+  "@creerUnCompte": {
+    "description": "creerUnCompte",
+    "type": "text",
+    "placeholders": {}
+  },
+  "continuer": "Continuer",
+  "@continuer": {
+    "description": "continuer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "finirInscription": "Finissez votre inscription",
+  "@finirInscription": {
+    "description": "finir Inscription d'un nouvel utilisateur",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nom": "Nom",
+  "@nom": {
+    "description": "nom de l'utilisateur",
+    "type": "text",
+    "placeholders": {}
+  },
+  "prenom": "Prénom",
+  "@prenom": {
+    "description": "prenom de l'utilisateur",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextSaisissezMotDePasse": "saisissez votre mot de passe",
+  "@hintTextSaisissezMotDePasse": {
+    "description": "hint text saisissez votre mot de passe",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmationMotDePasse": "Confirmation du mot de passe",
+  "@confirmationMotDePasse": {
+    "description": "confirmationMotDePasse",
+    "type": "text",
+    "placeholders": {}
+  },
+  "termesEtConditions": "En continuant, je confirme avoir lu et accepté les Termes et conditions et politiques de confidentialité",
+  "@termesEtConditions": {
+    "description": "termesEtConditions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "commencer": "Commencer",
+  "@commencer": {
+    "description": "entrer à l'application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "galerie": "Galerie",
+  "@galerie": {
+    "description": "galerie",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appareilPhoto": "Appareil photo",
+  "@appareilPhoto": {
+    "description": "Appareil photo",
+    "type": "text",
+    "placeholders": {}
+  },
+  "supprimerPhoto": "Supprimer la photo",
+  "@supprimerPhoto": {
+    "description": "supprimerPhoto",
+    "type": "text",
+    "placeholders": {}
+  },
+  "categorie": "Catégorie : ",
+  "@categorie": {
+    "description": "categorie",
+    "type": "text",
+    "placeholders": {}
+  },
+  "traite": "Traité",
+  "@traite": {
+    "description": "traite",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enCoursTraitement": "En cours de traitement",
+  "@enCoursTraitement": {
+    "description": "enCoursTraitement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "etat": "Etat : ",
+  "@etat": {
+    "description": "etat",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateDeSignalement": "Date de signalement : ",
+  "@dateDeSignalement": {
+    "description": "dateDeSignalement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "lieu": "Lieu : ",
+  "@lieu": {
+    "description": "lieu",
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailDuSignalement": "Détails du signalement",
+  "@detailDuSignalement": {
+    "description": "detailDuSignalement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "Description : ",
+  "@description": {
+    "description": "description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "envoyer": "Envoyer",
+  "@envoyer": {
+    "description": "envoyer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextDescriptionSaisie": "Décrivez l'incident...",
+  "@hintTextDescriptionSaisie": {
+    "description": "hintTextDescriptionSaisie",
+    "type": "text",
+    "placeholders": {}
+  },
+  "descriptionSaisie": "Description",
+  "@descriptionSaisie": {
+    "description": "descriptionSaisie",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextCategorieChoix": "Choisissez une catégorie",
+  "@hintTextCategorieChoix": {
+    "description": "hintTextCategorieChoix",
+    "type": "text",
+    "placeholders": {}
+  },
+  "categorieChoix": "Categorie",
+  "@categorieChoix": {
+    "description": "categorieChoix",
+    "type": "text",
+    "placeholders": {}
+  },
+  "localisation": "Localisation",
+  "@localisation": {
+    "description": "localisation",
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailUnBrouillon": "Détail d'un Brouillon",
+  "@detailUnBrouillon": {
+    "description": "detailUnBrouillon",
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailSignalement": "Détails du signalement",
+  "@detailSignalement": {
+    "description": "detailSignalement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mesSignalements": "Mes Signalements",
+  "@mesSignalements": {
+    "description": "Titre de la page mes signalements",
+    "type": "text",
+    "placeholders": {}
+  },
+  "actifs": "ACTIFS",
+  "@actifs": {
+    "description": "signalements actifs",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fermes": "FERMÉS",
+  "@fermes": {
+    "description": "signalements tarités",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nouvelleDeclaration": "Nouvelle Déclaration",
+  "@nouvelleDeclaration": {
+    "description": "nouvelle declaration",
+    "type": "text",
+    "placeholders": {}
+  },
+  "brouillons": "Brouillons",
+  "@brouillons": {
+    "description": "brouillons",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "notifications",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nouveau": "Nouveau",
+  "@nouveau": {
+    "description": "nouveau",
+    "type": "text",
+    "placeholders": {}
+  },
+  "plusTot": "Plus tôt",
+  "@plusTot": {
+    "description": "plusTot",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aPropos": "À propos",
+  "@aPropos": {
+    "description": "titre page à propos",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nouveautes": "Nouveautés",
+  "@nouveautes": {
+    "description": "nouveautés par rapport à l'appli",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aProposDeApplication": "À propos de l'application",
+  "@aProposDeApplication": {
+    "description": "infos sur l'appli",
+    "type": "text",
+    "placeholders": {}
+  },
+  "descriptionApp": "Il s’agit d’une application citoyenne de signalement conçue pour rendre plus aisé le signalement de tout incident sur la voie publique et établir un lien entre citoyens et services de gestion de la collectivité. En reportant les différents problèmes rencontrés dans la ville, chaque individu peut agir directement sur la qualité des infrastructures et le bon développement de la cité. Elle permet d’intervenir plus rapidement lorsqu’une anomalie est rencontrée sur la voie publique. Elle offre la possibilité de faire remonter des informations géo localisées en quelques secondes auprès de la municipalité, ce qui représente un atout considérable dans la gestion d'une commune. Cela permet de mobiliser le côté citoyen des habitants qui peuvent signaler en temps réel tout dysfonctionnement ou problème rencontré dans la ville.",
+  "@descriptionApp": {
+    "description": "description sur l'application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "donnerUneNoteAppli": "Donnez une note à l'application",
+  "@donnerUneNoteAppli": {
+    "description": "noter app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "partagezAvis": "Partagez votre avis et aidez d'autre utilisateurs",
+  "@partagezAvis": {
+    "description": "sous titre de noter l'app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "coordoneesDeveloppeur": "Coordonnées du développeur",
+  "@coordoneesDeveloppeur": {
+    "description": "Infos netfer smart solutions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "adresseNetfer": "CA-E2-06 Cyber Parc, Sidi Abdellah، Rahmania",
+  "@adresseNetfer": {
+    "description": "adresse netfer smart solutions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "joursOuverture": "Ouvert de dimache à jeudi",
+  "@joursOuverture": {
+    "description": "jours ouverture netfer ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tempsOuverture": "de 09:00 jusqu'à 17:00",
+  "@tempsOuverture": {
+    "description": "temps ouverture netfer ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "quiSommesNous": "Qui sommes-nous ?",
+  "@quiSommesNous": {
+    "description": "titre description netfer ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "descriptionNetfer": "NETFER SMART SOLUTIONS est une entreprise spécialisée dans le développement mobile et web et des Solutions Digitales.  Notre département de développement vous aidera à digitaliser vos processus métiers, vous gagnerez en temps, vous serez efficient et vous réduisez vos coûts.Nous mettons à votre disposition notre savoir faire acquis durant un parcours très riche dans les TICs, et traduit par des services et solutions entreprises et grand public dans le but de résoudre des problématiques réelles avec une expérience utilisateur la plus simple.",
+  "@descriptionNetfer": {
+    "description": "description netfer ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "site": "Site",
+  "@site": {
+    "description": "Site Internet Netfer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "itineraire": "Itineraire",
+  "@itineraire": {
+    "description": "itineraire pour aller à netfer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appeler": "Appeler",
+  "@appeler": {
+    "description": "Appeler netfer smart solutions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactezNous": "Contactez Nous",
+  "@contactezNous": {
+    "description": "contactez les admins de l'application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "objet": "Objet",
+  "@objet": {
+    "description": "objet du feedback",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextObjet": "Objet de votre message",
+  "@hintTextObjet": {
+    "description": "hint text de Objet de votre message",
+    "type": "text",
+    "placeholders": {}
+  },
+  "champObligatoire": "Champ obligatoire",
+  "@champObligatoire": {
+    "description": "msg d'erreur champ obligatoire",
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "Message",
+  "@message": {
+    "description": "titre message feedback",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextMessage": "Saisissez votre message...",
+  "@hintTextMessage": {
+    "description": "hint text du corp du message feedback",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ajustezImage": "Ajustez l'image",
+  "@ajustezImage": {
+    "description": "ajustezImage",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gererMonCompte": "Gérer mon Compte",
+  "@gererMonCompte": {
+    "description": "gererMonCompte",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifierMonProfil": "Modifier mon profil",
+  "@modifierMonProfil": {
+    "description": "modifierMonProfil",
+    "type": "text",
+    "placeholders": {}
+  },
+  "langues": "Langues",
+  "@langues": {
+    "description": "langues",
+    "type": "text",
+    "placeholders": {}
+  },
+  "textMessagePartage": "J'utilise SuperCitoyen pour signaler les incidents en temps réel, rejoins moi et télécharge SuperCitoyen :",
+  "@textMessagePartage": {
+    "description": "textMessagePartage",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inviterUnAmi": "Inviter un ami",
+  "@inviterUnAmi": {
+    "description": "inviterUnAmi",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sonEtNotification": "Son et notifications",
+  "@sonEtNotification": {
+    "description": "sonEtNotification",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confidentialite": "Confidentialité",
+  "@confidentialite": {
+    "description": "confidentialite",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aideEtSupport": "Aide et Support",
+  "@aideEtSupport": {
+    "description": "aideEtSupport",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deconnexion": "Déconnexion",
+  "@deconnexion": {
+    "description": "deconnexion",
+    "type": "text",
+    "placeholders": {}
+  },
+  "msgDeDeconnexion": "Etes-vous sûr de vouloir vous déconnecter ?",
+  "@msgDeDeconnexion": {
+    "description": "msgDeDeconnexion",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oui": "Oui",
+  "@oui": {
+    "description": "oui",
+    "type": "text",
+    "placeholders": {}
+  },
+  "non": "Non",
+  "@non": {
+    "description": "non",
+    "type": "text",
+    "placeholders": {}
+  },
+  "merci": "Merci",
+  "@merci": {
+    "description": "merci",
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackEnregistre": "Votre Feedback à bien été enregistré et sera pris en consideration dés que possible !",
+  "@feedbackEnregistre": {
+    "description": "feedbackEnregistre",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signalementEnregistre": "Votre signalement à bien été enregistré et sera pris en compte !",
+  "@signalementEnregistre": {
+    "description": "signalementEnregistre",
+    "type": "text",
+    "placeholders": {}
+  },
+  "choisirUneLangue": "Choisir une langue",
+  "@choisirUneLangue": {
+    "description": "choisirUneLangue",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifierMesInfos": "Modifier mes informations",
+  "@modifierMesInfos": {
+    "description": "modifierMesInfos",
+    "type": "text",
+    "placeholders": {}
+  },
+  "valider": "Valider",
+  "@valider": {
+    "description": "Valider",
+    "type": "text",
+    "placeholders": {}
+  },
+  "voirPlus": "Voir plus",
+  "@voirPlus": {
+    "description": "voirPlus",
+    "type": "text",
+    "placeholders": {}
+  },
+  "voirMoins": "Voir moins",
+  "@voirMoins": {
+    "description": "voirMoins",
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "date: ",
+  "@date": {
+    "description": "date",
+    "type": "text",
+    "placeholders": {}
+  },
+  "adresse": "Adresse",
+  "@adresse": {
+    "description": "adresse",
+    "type": "text",
+    "placeholders": {}
+  },
+  "supprimerbrouillon": "Etes-vous sûr de vouloir supprimer ce brouillon ?",
+  "@supprimerbrouillon": {
+    "description": "supprimerbrouillon",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifier": "Vérifier",
+  "@verifier": {
+    "description": "verifier",
+    "type": "text",
+    "placeholders": {}
+  },
+  "authAvecSucces": "Authentifié avec succès",
+  "@authAvecSucces": {
+    "description": "authAvecSucces",
+    "type": "text",
+    "placeholders": {}
+  },
+  "renvoyer": " RENVOYER",
+  "@renvoyer": {
+    "description": "renvoyer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "vousNavezPasRecuLeCode": "Vous n'avez pas reçu le code ? ",
+  "@vousNavezPasRecuLeCode": {
+    "description": "vousNavezPasRecuLeCode",
+    "type": "text",
+    "placeholders": {}
+  },
+  "msgerreurRemplissezCorrectement": "*Remplissez les cases correctement s'il vous plait",
+  "@msgerreurRemplissezCorrectement": {
+    "description": "msgerreurRemplissezCorrectement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "entrerLeCode": "Entrez le Code envoyé au  ",
+  "@entrerLeCode": {
+    "description": "entrerLeCode",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifNumTel": "Vérification du Numéro de téléphone",
+  "@verifNumTel": {
+    "description": "verifNumTel",
+    "type": "text",
+    "placeholders": {}
+  }
+
+}

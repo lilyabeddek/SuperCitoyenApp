@@ -1,0 +1,609 @@
+{
+  "@@last_modified": "2020-12-16T15:39:05.074096",
+  "infoSlide1": "! SyperCitoyen الإبلاغ عن الأعطال مع ",
+  "@infoSlide1": {
+    "description": "infoSlide1",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sousTitreInfoSlide1": "حدد موقع ,صنف ,التقط صورة وتتبع تقاريرك",
+  "@sousTitreInfoSlide1": {
+    "description": "sousTitreInfoSlide1",
+    "type": "text",
+    "placeholders": {}
+  },
+  "infoSlide2": "إدارة التقارير على مستوى دار البلدية",
+  "@infoSlide2": {
+    "description": "infoSlide2",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sousTitreInfoSlide2": "!خدمة تتكيف مع الجميع",
+  "@sousTitreInfoSlide2": {
+    "description": "sousTitreInfoSlide2",
+    "type": "text",
+    "placeholders": {}
+  },
+  "infoSlide3": "مراقبة التدخلات التقنية",
+  "@infoSlide3": {
+    "description": "infoSlide3",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sousTitreInfoSlide3": "المتابعة ، من تقديم التقرير إلى المعالجة",
+  "@sousTitreInfoSlide3": {
+    "description": "sousTitreInfoSlide3",
+    "type": "text",
+    "placeholders": {}
+  },
+  "creerCompteOuSeConnecter": "!إنشاء حساب أو تسجيل الدخول",
+  "@creerCompteOuSeConnecter": {
+    "description": "creerCompteOuSeConnecter",
+    "type": "text",
+    "placeholders": {}
+  },
+  "suivant": "التالي",
+  "@suivant": {
+    "description": "suivant",
+    "type": "text",
+    "placeholders": {}
+  },
+  "seConnecter": "Se Connecter",
+  "@seConnecter": {
+    "description": "word form signing up",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sInscrire": "تسجيل",
+  "@sInscrire": {
+    "description": "s'inscrire dans superCitoyen",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextNumTelephone": "رقم الهاتف",
+  "@hintTextNumTelephone": {
+    "description": "hint Text Numéro de Telephone",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextMotDePasse": "كلمة السر",
+  "@hintTextMotDePasse": {
+    "description": "hint Text Mot De Passe",
+    "type": "text",
+    "placeholders": {}
+  },
+  "motDePasseOublie": "نسيت رقمك السري",
+  "@motDePasseOublie": {
+    "description": "boutton Mot de passe oublié",
+    "type": "text",
+    "placeholders": {}
+  },
+  "creerUnCompte": "إفتح حساب",
+  "@creerUnCompte": {
+    "description": "creerUnCompte",
+    "type": "text",
+    "placeholders": {}
+  },
+  "continuer": "استمر",
+  "@continuer": {
+    "description": "continuer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "finirInscription": "إتمام عملية التسجيل",
+  "@finirInscription": {
+    "description": "finir Inscription d'un nouvel utilisateur",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nom": "اللقب",
+  "@nom": {
+    "description": "nom de l'utilisateur",
+    "type": "text",
+    "placeholders": {}
+  },
+  "prenom": "الاسم",
+  "@prenom": {
+    "description": "prenom de l'utilisateur",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextSaisissezMotDePasse": "ادخل رقمك السري",
+  "@hintTextSaisissezMotDePasse": {
+    "description": "hint text saisissez votre mot de passe",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmationMotDePasse": "تأكيد كلمة السر",
+  "@confirmationMotDePasse": {
+    "description": "confirmationMotDePasse",
+    "type": "text",
+    "placeholders": {}
+  },
+  "termesEtConditions": "من خلال المتابعة ، أؤكد أنني قد قرأت وقبلت البنود والشروط وسياسة الخصوصية",
+  "@termesEtConditions": {
+    "description": "termesEtConditions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "commencer": "ابدأ",
+  "@commencer": {
+    "description": "entrer à l'application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "galerie": "صالة عرض",
+  "@galerie": {
+    "description": "galerie",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appareilPhoto": "آلة تصوير",
+  "@appareilPhoto": {
+    "description": "Appareil photo",
+    "type": "text",
+    "placeholders": {}
+  },
+  "supprimerPhoto": "حذف الصورة",
+  "@supprimerPhoto": {
+    "description": "supprimerPhoto",
+    "type": "text",
+    "placeholders": {}
+  },
+  "categorie": ":الفئة",
+  "@categorie": {
+    "description": "categorie",
+    "type": "text",
+    "placeholders": {}
+  },
+  "traite": "تمت معالجة التقرير",
+  "@traite": {
+    "description": "traite",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enCoursTraitement": "تقرير قيد المعالجة",
+  "@enCoursTraitement": {
+    "description": "enCoursTraitement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "etat": ": حالة",
+  "@etat": {
+    "description": "etat",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateDeSignalement": ": تاريخ التقرير",
+  "@dateDeSignalement": {
+    "description": "dateDeSignalement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "lieu": ": موقعك",
+  "@lieu": {
+    "description": "lieu",
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailDuSignalement": "تفاصيل التقرير",
+  "@detailDuSignalement": {
+    "description": "detailDuSignalement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": ": وصف",
+  "@description": {
+    "description": "description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "envoyer": "إرسال",
+  "@envoyer": {
+    "description": "envoyer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextDescriptionSaisie": "...صف الحادثة",
+  "@hintTextDescriptionSaisie": {
+    "description": "hintTextDescriptionSaisie",
+    "type": "text",
+    "placeholders": {}
+  },
+  "descriptionSaisie": "وصف",
+  "@descriptionSaisie": {
+    "description": "descriptionSaisie",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextCategorieChoix": "اختر فئة",
+  "@hintTextCategorieChoix": {
+    "description": "hintTextCategorieChoix",
+    "type": "text",
+    "placeholders": {}
+  },
+  "categorieChoix": "الفئة",
+  "@categorieChoix": {
+    "description": "categorieChoix",
+    "type": "text",
+    "placeholders": {}
+  },
+  "localisation": "موقعك",
+  "@localisation": {
+    "description": "localisation",
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailUnBrouillon": "تفاصيل المسودة",
+  "@detailUnBrouillon": {
+    "description": "detailUnBrouillon",
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailSignalement": "تفاصيل التقرير",
+  "@detailSignalement": {
+    "description": "detailSignalement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mesSignalements": "تقاريري",
+  "@mesSignalements": {
+    "description": "Titre de la page mes signalements",
+    "type": "text",
+    "placeholders": {}
+  },
+  "actifs": "الجارية",
+  "@actifs": {
+    "description": "signalements actifs",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fermes": "المعالجة",
+  "@fermes": {
+    "description": "signalements tarités",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nouvelleDeclaration": "تقرير جديد",
+  "@nouvelleDeclaration": {
+    "description": "nouvelle declaration",
+    "type": "text",
+    "placeholders": {}
+  },
+  "brouillons": "مسودات",
+  "@brouillons": {
+    "description": "brouillons",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notifications": "إشعارات",
+  "@notifications": {
+    "description": "notifications",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nouveau": "جديد",
+  "@nouveau": {
+    "description": "nouveau",
+    "type": "text",
+    "placeholders": {}
+  },
+  "plusTot": "سابقا",
+  "@plusTot": {
+    "description": "plusTot",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aPropos": "معلومات عنا",
+  "@aPropos": {
+    "description": "titre page à propos",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nouveautes": "المستجدات",
+  "@nouveautes": {
+    "description": "nouveautés par rapport à l'appli",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aProposDeApplication": "حول التطبيق",
+  "@aProposDeApplication": {
+    "description": "infos sur l'appli",
+    "type": "text",
+    "placeholders": {}
+  },
+  "descriptionApp": ".إنه تطبيق لإبلاغ المواطنين مصمم لتسهيل الإبلاغ عن أي حادث على الطرق العامة وإنشاء صلة بين المواطنين وخدمات إدارة المجتمع. من خلال الإبلاغ عن المشكلات المختلفة التي واجهتها المدينة ، يمكن لكل فرد التصرف مباشرة على جودة البنية التحتية والتنمية المناسبة للمدينة. يجعل من الممكن التدخل بسرعة أكبر عند مواجهة حالة شاذة على الطريق السريع العام. يوفر إمكانية إعادة توجيه المعلومات المحددة جغرافيًا في بضع ثوانٍ إلى البلدية ، والتي تمثل رصيدًا كبيرًا في إدارة البلدية. هذا يجعل من الممكن حشد جانب المواطن من السكان الذين يمكنهم الإبلاغ في الوقت الفعلي عن أي خلل أو مشكلة تواجهها المدينة",
+  "@descriptionApp": {
+    "description": "description sur l'application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "donnerUneNoteAppli": "قيم التطبيق",
+  "@donnerUneNoteAppli": {
+    "description": "noter app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "partagezAvis": "شارك برأيك وساعد المستخدمين الآخرين",
+  "@partagezAvis": {
+    "description": "sous titre de noter l'app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "coordoneesDeveloppeur": "تفاصيل الاتصال بالمطور",
+  "@coordoneesDeveloppeur": {
+    "description": "Infos netfer smart solutions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "adresseNetfer": "CA-E2-06 سايبر بارك ، سيدي عبد الله ، الرحمانية",
+  "@adresseNetfer": {
+    "description": "adresse netfer smart solutions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "joursOuverture": "مفتوح من الأحد إلى الخميس",
+  "@joursOuverture": {
+    "description": "jours ouverture netfer ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tempsOuverture": "من 09:00 إلى 17:00",
+  "@tempsOuverture": {
+    "description": "temps ouverture netfer ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "quiSommesNous": "من نحن ؟",
+  "@quiSommesNous": {
+    "description": "titre description netfer ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "descriptionNetfer": "NETFER SMARTSOLUTIONS هي شركة متخصصة في تطوير الأجهزة المحمولة والويب والحلول الرقمية. سيساعدك قسم التطوير لدينا على رقمنة عمليات عملك ، وستوفر الوقت ، وستكون فعالًا وستقلل من تكاليفك. نوفر لك المعرفة الفنية المكتسبة خلال مهنة غنية جدًا في تكنولوجيا المعلومات والاتصالات ، وترجمتها إلى خدمات حلول الأعمال والمستهلكين بهدف حل المشكلات الحقيقية بأبسط تجربة للمستخدم.",
+  "@descriptionNetfer": {
+    "description": "description netfer ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "site": "موقع",
+  "@site": {
+    "description": "Site Internet Netfer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "itineraire": "مسار الرحلة",
+  "@itineraire": {
+    "description": "itineraire pour aller à netfer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appeler": "الاتصال",
+  "@appeler": {
+    "description": "Appeler netfer smart solutions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactezNous": "اتصل بنا",
+  "@contactezNous": {
+    "description": "contactez les admins de l'application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "objet": "موضوع الرسالة",
+  "@objet": {
+    "description": "objet du feedback",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextObjet": "ما هو موضوع رسالتك",
+  "@hintTextObjet": {
+    "description": "hint text de Objet de votre message",
+    "type": "text",
+    "placeholders": {}
+  },
+  "champObligatoire": "حقل اجباري",
+  "@champObligatoire": {
+    "description": "msg d'erreur champ obligatoire",
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "رسالة",
+  "@message": {
+    "description": "titre message feedback",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextMessage": "...أدخل رسالتك",
+  "@hintTextMessage": {
+    "description": "hint text du corp du message feedback",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ajustezImage": "اضبط الصورة",
+  "@ajustezImage": {
+    "description": "ajustezImage",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gererMonCompte": "إدارة حسابي",
+  "@gererMonCompte": {
+    "description": "gererMonCompte",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifierMonProfil": "تعديل ملفي الشخصي",
+  "@modifierMonProfil": {
+    "description": "modifierMonProfil",
+    "type": "text",
+    "placeholders": {}
+  },
+  "langues": "اللغات",
+  "@langues": {
+    "description": "langues",
+    "type": "text",
+    "placeholders": {}
+  },
+  "textMessagePartage": "أستخدم سوبر سيتوايان للإبلاغ عن الحوادث في الوقت الفعلي ،انضم إلي وقم بتنزيل سوبر سيتوايان",
+  "@textMessagePartage": {
+    "description": "textMessagePartage",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inviterUnAmi": "أدع صديقا",
+  "@inviterUnAmi": {
+    "description": "inviterUnAmi",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sonEtNotification": "الصوت والإخطارات",
+  "@sonEtNotification": {
+    "description": "sonEtNotification",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confidentialite": "سياسة الخصوصية والسرية",
+  "@confidentialite": {
+    "description": "confidentialite",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aideEtSupport": "مساعدة و دعم",
+  "@aideEtSupport": {
+    "description": "aideEtSupport",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deconnexion": "تسجيل خروج",
+  "@deconnexion": {
+    "description": "deconnexion",
+    "type": "text",
+    "placeholders": {}
+  },
+  "msgDeDeconnexion": "هل أنت متأكد أنك تريد تسجيل الخروج ؟",
+  "@msgDeDeconnexion": {
+    "description": "msgDeDeconnexion",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oui": "نعم",
+  "@oui": {
+    "description": "oui",
+    "type": "text",
+    "placeholders": {}
+  },
+  "non": "لا",
+  "@non": {
+    "description": "non",
+    "type": "text",
+    "placeholders": {}
+  },
+  "merci": "شكرا لك",
+  "@merci": {
+    "description": "merci",
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackEnregistre": "!تم تسجيل ملاحظاتك وسيتم أخذها في الاعتبار في أقرب وقت ممكن",
+  "@feedbackEnregistre": {
+    "description": "feedbackEnregistre",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signalementEnregistre": "!تم تسجيل بلاغك وسيؤخذ بعين الاعتبار",
+  "@signalementEnregistre": {
+    "description": "signalementEnregistre",
+    "type": "text",
+    "placeholders": {}
+  },
+  "choisirUneLangue": "اختر لغة",
+  "@choisirUneLangue": {
+    "description": "choisirUneLangue",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifierMesInfos": "تحرير المعلومات الخاصة بي",
+  "@modifierMesInfos": {
+    "description": "modifierMesInfos",
+    "type": "text",
+    "placeholders": {}
+  },
+  "valider": "حفظ",
+  "@valider": {
+    "description": "Valider",
+    "type": "text",
+    "placeholders": {}
+  },
+  "voirPlus": "شاهد المزيد",
+  "@voirPlus": {
+    "description": "voirPlus",
+    "type": "text",
+    "placeholders": {}
+  },
+  "voirMoins": "رؤية أقل",
+  "@voirMoins": {
+    "description": "voirMoins",
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "بتاريخ:",
+  "@date": {
+    "description": "date",
+    "type": "text",
+    "placeholders": {}
+  },
+  "adresse": "عنوان",
+  "@adresse": {
+    "description": "adresse",
+    "type": "text",
+    "placeholders": {}
+  },
+  "supprimerbrouillon": "هل أنت متأكد أنك تريد حذف هذه المسودة؟",
+  "@supprimerbrouillon": {
+    "description": "supprimerbrouillon",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifier": "التحقق",
+  "@verifier": {
+    "description": "verifier",
+    "type": "text",
+    "placeholders": {}
+  },
+  "authAvecSucces": "المصادقة بنجاح",
+  "@authAvecSucces": {
+    "description": "authAvecSucces",
+    "type": "text",
+    "placeholders": {}
+  },
+  "renvoyer": " إعادة إرسال",
+  "@renvoyer": {
+    "description": "renvoyer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "vousNavezPasRecuLeCode": "ألم تستلم الرمز؟ ",
+  "@vousNavezPasRecuLeCode": {
+    "description": "vousNavezPasRecuLeCode",
+    "type": "text",
+    "placeholders": {}
+  },
+  "msgerreurRemplissezCorrectement": "* يرجى ملء الخانات بشكل صحيح",
+  "@msgerreurRemplissezCorrectement": {
+    "description": "msgerreurRemplissezCorrectement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "entrerLeCode": "أدخل الرمز المرسل إلى ",
+  "@entrerLeCode": {
+    "description": "entrerLeCode",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifNumTel": "التحقق من رقم الهاتف",
+  "@verifNumTel": {
+    "description": "verifNumTel",
+    "type": "text",
+    "placeholders": {}
+  }
+}

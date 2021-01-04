@@ -1,0 +1,609 @@
+{
+  "@@last_modified": "2020-12-16T15:39:05.074096",
+  "infoSlide1": "Report malfunctions with SyperCitoyen!",
+  "@infoSlide1": {
+    "description": "infoSlide1",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sousTitreInfoSlide1": "Locate, categorize, take a picture and track your reports",
+  "@sousTitreInfoSlide1": {
+    "description": "sousTitreInfoSlide1",
+    "type": "text",
+    "placeholders": {}
+  },
+  "infoSlide2": "Management of reports at town hall level",
+  "@infoSlide2": {
+    "description": "infoSlide2",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sousTitreInfoSlide2": "A service adapted to all!",
+  "@sousTitreInfoSlide2": {
+    "description": "sousTitreInfoSlide2",
+    "type": "text",
+    "placeholders": {}
+  },
+  "infoSlide3": "Monitoring of technical interventions",
+  "@infoSlide3": {
+    "description": "infoSlide3",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sousTitreInfoSlide3": "Follow-up, from filing the report to processing",
+  "@sousTitreInfoSlide3": {
+    "description": "sousTitreInfoSlide3",
+    "type": "text",
+    "placeholders": {}
+  },
+  "creerCompteOuSeConnecter": "Create an account, or log in!",
+  "@creerCompteOuSeConnecter": {
+    "description": "creerCompteOuSeConnecter",
+    "type": "text",
+    "placeholders": {}
+  },
+  "suivant": "Next",
+  "@suivant": {
+    "description": "suivant",
+    "type": "text",
+    "placeholders": {}
+  },
+  "seConnecter": "Log In",
+  "@seConnecter": {
+    "description": "word form signing up",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sInscrire": "Register",
+  "@sInscrire": {
+    "description": "s'inscrire dans superCitoyen",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextNumTelephone": "Phone number",
+  "@hintTextNumTelephone": {
+    "description": "hint Text Numéro de Telephone",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextMotDePasse": "Password",
+  "@hintTextMotDePasse": {
+    "description": "hint Text Mot De Passe",
+    "type": "text",
+    "placeholders": {}
+  },
+  "motDePasseOublie": "Forgot your password",
+  "@motDePasseOublie": {
+    "description": "boutton Mot de passe oublié",
+    "type": "text",
+    "placeholders": {}
+  },
+  "creerUnCompte": "Create an account",
+  "@creerUnCompte": {
+    "description": "creerUnCompte",
+    "type": "text",
+    "placeholders": {}
+  },
+  "continuer": "Continue",
+  "@continuer": {
+    "description": "continuer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "finirInscription": "Complete your registration",
+  "@finirInscription": {
+    "description": "finir Inscription d'un nouvel utilisateur",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nom": "Last name",
+  "@nom": {
+    "description": "nom de l'utilisateur",
+    "type": "text",
+    "placeholders": {}
+  },
+  "prenom": "First name",
+  "@prenom": {
+    "description": "prenom de l'utilisateur",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextSaisissezMotDePasse": "Enter your password",
+  "@hintTextSaisissezMotDePasse": {
+    "description": "hint text saisissez votre mot de passe",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmationMotDePasse": "Password Confirmation",
+  "@confirmationMotDePasse": {
+    "description": "confirmationMotDePasse",
+    "type": "text",
+    "placeholders": {}
+  },
+  "termesEtConditions": "By continuing, I confirm that I have read and accept the Terms and Conditions and Privacy Policy",
+  "@termesEtConditions": {
+    "description": "termesEtConditions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "commencer": "Start",
+  "@commencer": {
+    "description": "entrer à l'application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "galerie": "Gallery",
+  "@galerie": {
+    "description": "galerie",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appareilPhoto": "Camera",
+  "@appareilPhoto": {
+    "description": "Appareil photo",
+    "type": "text",
+    "placeholders": {}
+  },
+  "supprimerPhoto": "Delete photo",
+  "@supprimerPhoto": {
+    "description": "supprimerPhoto",
+    "type": "text",
+    "placeholders": {}
+  },
+  "categorie": "Category:",
+  "@categorie": {
+    "description": "categorie",
+    "type": "text",
+    "placeholders": {}
+  },
+  "traite": "Handled",
+  "@traite": {
+    "description": "traite",
+    "type": "text",
+    "placeholders": {}
+  },
+  "enCoursTraitement": "Being processed",
+  "@enCoursTraitement": {
+    "description": "enCoursTraitement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "etat": "State:",
+  "@etat": {
+    "description": "etat",
+    "type": "text",
+    "placeholders": {}
+  },
+  "dateDeSignalement": "Report date:",
+  "@dateDeSignalement": {
+    "description": "dateDeSignalement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "lieu": "Location :",
+  "@lieu": {
+    "description": "lieu",
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailDuSignalement": "Report details",
+  "@detailDuSignalement": {
+    "description": "detailDuSignalement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "description": "Description : ",
+  "@description": {
+    "description": "description",
+    "type": "text",
+    "placeholders": {}
+  },
+  "envoyer": "Send",
+  "@envoyer": {
+    "description": "envoyer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextDescriptionSaisie": "Describe the incident ...",
+  "@hintTextDescriptionSaisie": {
+    "description": "hintTextDescriptionSaisie",
+    "type": "text",
+    "placeholders": {}
+  },
+  "descriptionSaisie": "Description",
+  "@descriptionSaisie": {
+    "description": "descriptionSaisie",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextCategorieChoix": "Choose a category",
+  "@hintTextCategorieChoix": {
+    "description": "hintTextCategorieChoix",
+    "type": "text",
+    "placeholders": {}
+  },
+  "categorieChoix": "Category",
+  "@categorieChoix": {
+    "description": "categorieChoix",
+    "type": "text",
+    "placeholders": {}
+  },
+  "localisation": "Location",
+  "@localisation": {
+    "description": "localisation",
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailUnBrouillon": "Detail of a Draft",
+  "@detailUnBrouillon": {
+    "description": "detailUnBrouillon",
+    "type": "text",
+    "placeholders": {}
+  },
+  "detailSignalement": "Report details",
+  "@detailSignalement": {
+    "description": "detailSignalement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mesSignalements": "My Reports",
+  "@mesSignalements": {
+    "description": "Titre de la page mes signalements",
+    "type": "text",
+    "placeholders": {}
+  },
+  "actifs": "ACTIVE",
+  "@actifs": {
+    "description": "signalements actifs",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fermes": "CLOSED",
+  "@fermes": {
+    "description": "signalements tarités",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nouvelleDeclaration": "New report",
+  "@nouvelleDeclaration": {
+    "description": "nouvelle declaration",
+    "type": "text",
+    "placeholders": {}
+  },
+  "brouillons": "Drafts",
+  "@brouillons": {
+    "description": "brouillons",
+    "type": "text",
+    "placeholders": {}
+  },
+  "notifications": "Notifications",
+  "@notifications": {
+    "description": "notifications",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nouveau": "New",
+  "@nouveau": {
+    "description": "nouveau",
+    "type": "text",
+    "placeholders": {}
+  },
+  "plusTot": "Earlier",
+  "@plusTot": {
+    "description": "plusTot",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aPropos": "About us",
+  "@aPropos": {
+    "description": "titre page à propos",
+    "type": "text",
+    "placeholders": {}
+  },
+  "nouveautes": "News",
+  "@nouveautes": {
+    "description": "nouveautés par rapport à l'appli",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aProposDeApplication": "About the app",
+  "@aProposDeApplication": {
+    "description": "infos sur l'appli",
+    "type": "text",
+    "placeholders": {}
+  },
+  "descriptionApp": "It is a citizen reporting application designed to make it easier to report any incident on public roads and to establish a link between citizens and community management services. By reporting the various problems encountered in the city, each individual can act directly on the quality of infrastructure and the proper development of the city. It makes it possible to intervene more quickly when an anomaly is encountered on the public highway. It offers the possibility of forwarding geo-localized information in a few seconds to the municipality, which represents a considerable asset in the management of a municipality. This makes it possible to mobilize the citizen side of the inhabitants who can report in real time any dysfunction or problem encountered in the city.",
+  "@descriptionApp": {
+    "description": "description sur l'application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "donnerUneNoteAppli": "Rate the app",
+  "@donnerUneNoteAppli": {
+    "description": "noter app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "partagezAvis": "Share your opinion and help other users",
+  "@partagezAvis": {
+    "description": "sous titre de noter l'app",
+    "type": "text",
+    "placeholders": {}
+  },
+  "coordoneesDeveloppeur": "Developer contact details",
+  "@coordoneesDeveloppeur": {
+    "description": "Infos netfer smart solutions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "adresseNetfer": "CA-E2-06 Cyber Parc, Sidi Abdellah، Rahmania",
+  "@adresseNetfer": {
+    "description": "adresse netfer smart solutions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "joursOuverture": "Open from Sunday to Thursday",
+  "@joursOuverture": {
+    "description": "jours ouverture netfer ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "tempsOuverture": "from 09:00 to 17:00",
+  "@tempsOuverture": {
+    "description": "temps ouverture netfer ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "quiSommesNous": "Who are we ?",
+  "@quiSommesNous": {
+    "description": "titre description netfer ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "descriptionNetfer": "NETFER SMART SOLUTIONS is a company specializing in mobile and web development and Digital Solutions. Our development department will help you to digitize your business processes, you will save time, you will be efficient and you reduce your costs.We provide you with our know-how acquired during a very rich career in ICTs, and translated into services and business and consumer solutions with the aim of solving real problems with the simplest user experience.",
+  "@descriptionNetfer": {
+    "description": "description netfer ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "site": "Website",
+  "@site": {
+    "description": "Site Internet Netfer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "itineraire": "Route",
+  "@itineraire": {
+    "description": "itineraire pour aller à netfer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "appeler": "Call",
+  "@appeler": {
+    "description": "Appeler netfer smart solutions",
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactezNous": "Contact Us",
+  "@contactezNous": {
+    "description": "contactez les admins de l'application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "objet": "Object",
+  "@objet": {
+    "description": "objet du feedback",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextObjet": "What is the subject of your message",
+  "@hintTextObjet": {
+    "description": "hint text de Objet de votre message",
+    "type": "text",
+    "placeholders": {}
+  },
+  "champObligatoire": "Required Field",
+  "@champObligatoire": {
+    "description": "msg d'erreur champ obligatoire",
+    "type": "text",
+    "placeholders": {}
+  },
+  "message": "Message",
+  "@message": {
+    "description": "titre message feedback",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hintTextMessage": "Enter your message ...",
+  "@hintTextMessage": {
+    "description": "hint text du corp du message feedback",
+    "type": "text",
+    "placeholders": {}
+  },
+  "ajustezImage": "Adjust the image",
+  "@ajustezImage": {
+    "description": "ajustezImage",
+    "type": "text",
+    "placeholders": {}
+  },
+  "gererMonCompte": "Manage my account",
+  "@gererMonCompte": {
+    "description": "gererMonCompte",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifierMonProfil": "Edit my profile",
+  "@modifierMonProfil": {
+    "description": "modifierMonProfil",
+    "type": "text",
+    "placeholders": {}
+  },
+  "langues": "Languages",
+  "@langues": {
+    "description": "langues",
+    "type": "text",
+    "placeholders": {}
+  },
+  "textMessagePartage": "I use SuperCitoyen to report incidents in real time, join me and download SuperCitoyen:",
+  "@textMessagePartage": {
+    "description": "textMessagePartage",
+    "type": "text",
+    "placeholders": {}
+  },
+  "inviterUnAmi": "Invite a friend",
+  "@inviterUnAmi": {
+    "description": "inviterUnAmi",
+    "type": "text",
+    "placeholders": {}
+  },
+  "sonEtNotification": "Sound and notifications",
+  "@sonEtNotification": {
+    "description": "sonEtNotification",
+    "type": "text",
+    "placeholders": {}
+  },
+  "confidentialite": "Confidentiality",
+  "@confidentialite": {
+    "description": "confidentialite",
+    "type": "text",
+    "placeholders": {}
+  },
+  "aideEtSupport": "Help and Support",
+  "@aideEtSupport": {
+    "description": "aideEtSupport",
+    "type": "text",
+    "placeholders": {}
+  },
+  "deconnexion": "Logout",
+  "@deconnexion": {
+    "description": "deconnexion",
+    "type": "text",
+    "placeholders": {}
+  },
+  "msgDeDeconnexion": "Are you sure you want to logout ?",
+  "@msgDeDeconnexion": {
+    "description": "msgDeDeconnexion",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oui": "Yes",
+  "@oui": {
+    "description": "oui",
+    "type": "text",
+    "placeholders": {}
+  },
+  "non": "No",
+  "@non": {
+    "description": "non",
+    "type": "text",
+    "placeholders": {}
+  },
+  "merci": "Thank You",
+  "@merci": {
+    "description": "merci",
+    "type": "text",
+    "placeholders": {}
+  },
+  "feedbackEnregistre": "Your Feedback has been recorded and will be taken into consideration as soon as possible!",
+  "@feedbackEnregistre": {
+    "description": "feedbackEnregistre",
+    "type": "text",
+    "placeholders": {}
+  },
+  "signalementEnregistre": "Your report has been registered and will be taken into account!",
+  "@signalementEnregistre": {
+    "description": "signalementEnregistre",
+    "type": "text",
+    "placeholders": {}
+  },
+  "choisirUneLangue": "Choose a language",
+  "@choisirUneLangue": {
+    "description": "choisirUneLangue",
+    "type": "text",
+    "placeholders": {}
+  },
+  "modifierMesInfos": "Edit my information",
+  "@modifierMesInfos": {
+    "description": "modifierMesInfos",
+    "type": "text",
+    "placeholders": {}
+  },
+  "valider": "Save",
+  "@valider": {
+    "description": "Valider",
+    "type": "text",
+    "placeholders": {}
+  },
+  "voirPlus": "See more",
+  "@voirPlus": {
+    "description": "voirPlus",
+    "type": "text",
+    "placeholders": {}
+  },
+  "voirMoins": "See less",
+  "@voirMoins": {
+    "description": "voirMoins",
+    "type": "text",
+    "placeholders": {}
+  },
+  "date": "date: ",
+  "@date": {
+    "description": "date",
+    "type": "text",
+    "placeholders": {}
+  },
+  "adresse": "Address",
+  "@adresse": {
+    "description": "adresse",
+    "type": "text",
+    "placeholders": {}
+  },
+  "supprimerbrouillon": "Are you sure you want to delete this draft?",
+  "@supprimerbrouillon": {
+    "description": "supprimerbrouillon",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifier": "Verify",
+  "@verifier": {
+    "description": "verifier",
+    "type": "text",
+    "placeholders": {}
+  },
+  "authAvecSucces": "Authenticated successfully",
+  "@authAvecSucces": {
+    "description": "authAvecSucces",
+    "type": "text",
+    "placeholders": {}
+  },
+  "renvoyer": " RESEND",
+  "@renvoyer": {
+    "description": "renvoyer",
+    "type": "text",
+    "placeholders": {}
+  },
+  "vousNavezPasRecuLeCode": "Haven't received the code?",
+  "@vousNavezPasRecuLeCode": {
+    "description": "vousNavezPasRecuLeCode",
+    "type": "text",
+    "placeholders": {}
+  },
+  "msgerreurRemplissezCorrectement": "*Please fill in the boxes correctly",
+  "@msgerreurRemplissezCorrectement": {
+    "description": "msgerreurRemplissezCorrectement",
+    "type": "text",
+    "placeholders": {}
+  },
+  "entrerLeCode": "Enter the Code sent to ",
+  "@entrerLeCode": {
+    "description": "entrerLeCode",
+    "type": "text",
+    "placeholders": {}
+  },
+  "verifNumTel": "Phone Number Verification",
+  "@verifNumTel": {
+    "description": "verifNumTel",
+    "type": "text",
+    "placeholders": {}
+  }
+}

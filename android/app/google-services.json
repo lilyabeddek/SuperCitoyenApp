@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "807020987231",
+    "firebase_url": "https://supercitoyen-app-bdd.firebaseio.com",
+    "project_id": "supercitoyen-app-bdd",
+    "storage_bucket": "supercitoyen-app-bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807020987231:android:cb8155af084d2e125bacea",
+        "android_client_info": {
+          "package_name": "com.example.supercitoyen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807020987231-35efnc5i7a99mkk1s8qkeu4so2cbadfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4PolqprORTjizHttsBOq13bh7aUehRBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807020987231-35efnc5i7a99mkk1s8qkeu4so2cbadfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
